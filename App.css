@@ -1,0 +1,28 @@
+.overview{
+  width: 250px;
+}
+.product-poster{
+  height: 350px;
+  width: 350px;
+  
+}
+.product-desc{
+  margin-left: 55px;
+  text-align: center;
+}
+.product-name{
+  position: relative;
+  bottom: 50px;
+}
+.product-price{
+  position: relative;
+  bottom: 50px;
+}
+.product-category{
+  position: relative;
+  bottom: 50px;
+}
+.product-description{
+  position: relative;
+  bottom: 50px;
+}
